@@ -1,6 +1,6 @@
 ## Olá, meu nome é Gabriel Rodrigues.
 ---
-Em andamento um curso de T.I. Chama-se [Favela Ware](https://favelaware.animahub.com.br/home).   
+Em andamento um curso de T.I. Chama [Favela Ware](https://favelaware.animahub.com.br/home).   
 Neste curso o foco é mais em Front-End, e as linguagens são JavaScript, HTML e CSS.   
 Quero ter uma carreira profissional com tecnologia.   
 --- 
